@@ -6,6 +6,8 @@
 
 Язык программирования - **Java**.
 
+[Резюме](https://github.com/Helena01101986/CV/blob/main/CV.md)
+
 
 ## Работы 
 

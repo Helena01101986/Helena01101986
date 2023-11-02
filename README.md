@@ -8,7 +8,7 @@
 
 [Резюме](https://github.com/Helena01101986/CV/blob/main/CV.md)
 
-**Контакты**
+**Контакты:**
 
 Email: karpova01101986@gmail.com
 

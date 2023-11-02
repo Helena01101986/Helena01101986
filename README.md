@@ -8,6 +8,8 @@
 
 [Резюме](https://github.com/Helena01101986/CV/blob/main/CV.md)
 
+**Контакты**
+Email: karpova01101986@gmail.com
 
 ## Работы 
 
@@ -72,7 +74,5 @@
 
 [2022 Центр онлайн-образования ""Нетология", HTML и CSS для тестировщиков](https://github.com/Helena01101986/Certificates/blob/main/certificates/certificate%20HTML.pdf)
 
-## Контакты
-Email: karpova01101986@gmail.com
 
 

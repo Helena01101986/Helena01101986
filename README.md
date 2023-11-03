@@ -6,6 +6,8 @@
 
 Язык программирования - **Java**.
 
+Знание инструментов: **IntelliJ IDEA, Postman, Docker, Java, Selenium, JUnit, Jira.**
+
 [Резюме](https://github.com/Helena01101986/CV/blob/main/CV.md)
 
 **Контакты:**

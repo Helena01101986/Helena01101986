@@ -16,6 +16,8 @@ Email: karpova01101986@gmail.com
 
 ## Работы 
 
+[Тестовое задание в рамках отбора на должность Junior QA](https://github.com/Helena01101986/JastAI)
+
 [Тестирование пользовательского интерфейса интернет-магазина https://henderson.ru](https://github.com/Helena01101986/UI_testing)
 
 <details>

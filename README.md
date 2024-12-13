@@ -99,7 +99,7 @@ Email: karpova01101986@gmail.com
 [Учебные работы](https://github.com/Helena01101986?tab=repositories)
 
 ## Сертификаты
-[2024 Центр карьерного развития IBS, Сертификат о прохождении стажировки "Универсальное тестиование"]
+[2024 Центр карьерного развития IBS, Сертификат о прохождении стажировки "Универсальное тестиование"](https://github.com/Helena01101986/Certificates/blob/main/certificates/%D0%95%D1%80%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%20%D0%95%D0%BB%D0%B5%D0%BD%D0%B0.pdf)
 
 
 [2023 Центр онлайн-образования ""Нетология", Диплом о профессиональной переподготовке по специальности "Тестировщик ПО"](https://github.com/Helena01101986/Certificates/blob/main/certificates/diploma%20testing.pdf)
